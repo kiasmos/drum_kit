@@ -1,6 +1,6 @@
 ## Feedback
 
-"Feedback appreciated! If you have any suggestions, improvements, or spot any issues in my code, please reach out to me at brahim.arzu@gmail.com . Thank you!" 
+Feedback appreciated! If you have any suggestions, improvements, or spot any issues in my code, please reach out to me at brahim.arzu@gmail.com 
 
 
 ## Demo
